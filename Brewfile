@@ -115,3 +115,5 @@ brew xz
 brew yasm
 brew youtube-dl
 brew zeromq
+brew zsh
+brew zsh-completions
